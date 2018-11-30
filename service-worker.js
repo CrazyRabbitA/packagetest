@@ -17,7 +17,7 @@ const workboxSW = new WorkboxSW({
 workboxSW.precache([
   {
     "url": "index.html",
-    "revision": "3f783c95b2343964978015b1d0211c2c"
+    "revision": "fec8ce4d4933d01c15f746acc8da3617"
   },
   {
     "url": "static/api/guc_api.js",
@@ -32,7 +32,7 @@ workboxSW.precache([
     "revision": "c95c54a802b6d4b7099113d7fa5924f3"
   },
   {
-    "url": "static/css/index.afc52994.css"
+    "url": "static/css/index.736796fa.css"
   },
   {
     "url": "static/img/sprites/sprite.css",
@@ -42,7 +42,7 @@ workboxSW.precache([
     "url": "static/js/0.d830d557.js"
   },
   {
-    "url": "static/js/index.1964f76b.js"
+    "url": "static/js/index.96a4a5f2.js"
   },
   {
     "url": "static/js/manifest.13eb4f4a.js"
