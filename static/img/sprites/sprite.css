@@ -1,0 +1,294 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-icon_238 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px 0px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_0 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -41px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_10 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -82px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_11 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -123px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_12 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -164px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_13 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -205px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_136 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -246px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_14 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -287px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_141 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -328px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_15 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -369px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_16 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -410px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_17 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -451px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_18 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -492px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_181 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -533px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_19 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -574px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_2 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -615px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_20 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -656px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_21 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -697px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_22 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -738px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_226 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -779px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_23 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -820px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_230 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -861px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_234 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -902px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_1 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -943px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_246 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -984px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_254 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1025px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_264 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1066px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_272 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1107px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_278 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1148px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_282 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1189px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_287 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1230px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_294 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1271px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_3 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1312px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_300 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1353px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_306 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1394px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_336 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1435px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_349 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1476px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_371 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1517px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_4 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1558px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_5 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1599px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_50 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1640px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_6 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1681px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_7 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1722px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_8 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1763px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_83 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1804px;
+  width: 37px;
+  height: 37px;
+}
+.icon-icon_9 {
+  background-image: url(../sprites/sprite.png);
+  background-position: 0px -1845px;
+  width: 37px;
+  height: 37px;
+}

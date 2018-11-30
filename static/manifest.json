@@ -1,0 +1,15 @@
+{
+    "start_url": "/?utm_source=homescreen",
+    "name": "TolyMoly",
+    "short_name": "TolyMoly",
+    "icons": [
+        {
+            "src": "img/icons/tolymoly.jpg",
+            "type": "image/jpg",
+            "sizes": "192x192"
+        }
+    ],
+    "display": "standalone",
+    "background_color": "#F3F3F3",
+    "theme_color": "#F3F3F3"
+}

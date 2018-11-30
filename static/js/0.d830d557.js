@@ -1,0 +1,1 @@
+webpackJsonp([0],{"6YYY":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e){var t=e.store,r=e.redirect,i=e.route,o=t.state.store.isLogin||!1,n=localStorage.getItem("userInfo")||"";if(!o&&!n&&"/login-register/loginregister"!==i.path)return r({path:"/login-register/loginregister",query:{redirect:i.path}})}}});

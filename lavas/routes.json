@@ -1,0 +1,261 @@
+{
+    "mode": "hash",
+    "base": "/",
+    "routes": [
+        {
+            "path": "/appshell",
+            "name": "appshell",
+            "meta": {}
+        },
+        {
+            "path": "/buydetail",
+            "name": "buydetail",
+            "meta": {}
+        },
+        {
+            "path": "/buy-list",
+            "name": "buyList",
+            "meta": {}
+        },
+        {
+            "path": "/category",
+            "name": "category",
+            "meta": {}
+        },
+        {
+            "path": "/chat/chat",
+            "name": "chatChat",
+            "meta": {}
+        },
+        {
+            "path": "/chat/chat-list",
+            "name": "chatChatList",
+            "meta": {}
+        },
+        {
+            "path": "/chat/im-message",
+            "name": "chatImMessage",
+            "meta": {}
+        },
+        {
+            "path": "/download",
+            "name": "download",
+            "meta": {}
+        },
+        {
+            "path": "/download-property",
+            "name": "downloadProperty",
+            "meta": {}
+        },
+        {
+            "path": "/feedback/feedback",
+            "name": "feedbackFeedback",
+            "meta": {}
+        },
+        {
+            "path": "/help/ad-fee",
+            "name": "helpAdFee",
+            "meta": {}
+        },
+        {
+            "path": "/help/ad-rules",
+            "name": "helpAdRules",
+            "meta": {}
+        },
+        {
+            "path": "/help/buyer-tips",
+            "name": "helpBuyerTips",
+            "meta": {}
+        },
+        {
+            "path": "/help/help",
+            "name": "helpHelp",
+            "meta": {}
+        },
+        {
+            "path": "/help/how-set-price",
+            "name": "helpHowSetPrice",
+            "meta": {}
+        },
+        {
+            "path": "/help/how-take-photos",
+            "name": "helpHowTakePhotos",
+            "meta": {}
+        },
+        {
+            "path": "/help/how-works",
+            "name": "helpHowWorks",
+            "meta": {}
+        },
+        {
+            "path": "/help/policy",
+            "name": "helpPolicy",
+            "meta": {}
+        },
+        {
+            "path": "/help/prohibited-ads",
+            "name": "helpProhibitedAds",
+            "meta": {}
+        },
+        {
+            "path": "/help/prohibited-conduct",
+            "name": "helpProhibitedConduct",
+            "meta": {}
+        },
+        {
+            "path": "/help/seller-tips",
+            "name": "helpSellerTips",
+            "meta": {
+                "keepAlive": true
+            }
+        },
+        {
+            "path": "/help/terms",
+            "name": "helpTerms",
+            "meta": {}
+        },
+        {
+            "path": "/help/tips-safely",
+            "name": "helpTipsSafely",
+            "meta": {}
+        },
+        {
+            "path": "/help/why-ad-pending",
+            "name": "helpWhyAdPending",
+            "meta": {}
+        },
+        {
+            "path": "/help/why-ad-suspended",
+            "name": "helpWhyAdSuspended",
+            "meta": {}
+        },
+        {
+            "path": "/help/why-suspended",
+            "name": "helpWhySuspended",
+            "meta": {}
+        },
+        {
+            "path": "/",
+            "name": "index",
+            "meta": {}
+        },
+        {
+            "path": "/language",
+            "name": "language",
+            "meta": {}
+        },
+        {
+            "path": "/login-register/loginregister",
+            "name": "loginRegisterLoginregister",
+            "meta": {}
+        },
+        {
+            "path": "/login-register/resetresult",
+            "name": "loginRegisterResetresult",
+            "meta": {}
+        },
+        {
+            "path": "/search/category",
+            "name": "searchCategory",
+            "meta": {}
+        },
+        {
+            "path": "/search/search",
+            "name": "searchSearch",
+            "meta": {}
+        },
+        {
+            "path": "/sell",
+            "name": "sell",
+            "meta": {
+                "keepAlive": true
+            }
+        },
+        {
+            "path": "/sub-category",
+            "name": "subCategory",
+            "meta": {}
+        },
+        {
+            "path": "/user/contact",
+            "name": "userContact",
+            "meta": {}
+        },
+        {
+            "path": "/user/descrption",
+            "name": "userDescrption",
+            "meta": {}
+        },
+        {
+            "path": "/user/favourites",
+            "name": "userFavourites",
+            "meta": {}
+        },
+        {
+            "path": "/user/follow",
+            "name": "userFollow",
+            "meta": {}
+        },
+        {
+            "path": "/user/myaccount",
+            "name": "userMyaccount",
+            "meta": {}
+        },
+        {
+            "path": "/user/myitems",
+            "name": "userMyitems",
+            "meta": {}
+        },
+        {
+            "path": "/user/myitems-detail",
+            "name": "userMyitemsDetail",
+            "meta": {}
+        },
+        {
+            "path": "/user/other-account",
+            "name": "userOtherAccount",
+            "meta": {}
+        },
+        {
+            "path": "/user/password",
+            "name": "userPassword",
+            "meta": {}
+        },
+        {
+            "path": "/user/phone",
+            "name": "userPhone",
+            "meta": {}
+        },
+        {
+            "path": "/user/profile",
+            "name": "userProfile",
+            "meta": {}
+        },
+        {
+            "path": "/user/reportproblem",
+            "name": "userReportproblem",
+            "meta": {}
+        },
+        {
+            "path": "/user/report-user",
+            "name": "userReportUser",
+            "meta": {}
+        },
+        {
+            "path": "/user/settings",
+            "name": "userSettings",
+            "meta": {}
+        },
+        {
+            "path": "/user-list",
+            "name": "userList",
+            "meta": {}
+        },
+        {
+            "path": "/error",
+            "name": "error",
+            "meta": {},
+            "alias": "*"
+        }
+    ]
+}
